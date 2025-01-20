@@ -1,0 +1,8 @@
+tạo cấu trúc dự án reactjs
+sử dụng tailwind để css
+	react-router-dom để cấu hình dường dẫn dự án
+thư mục components: Tập hợp các thành phần có thể dùng lại
+thư mục pages: chứa các trang hoàn thiện củ dự án
+react-icons: thư viện của react để sử dụng các icon
+tạo navbar cho trang web
+ <Outlet /> nhận các thành phần đc trả lại từ đường dẫn
