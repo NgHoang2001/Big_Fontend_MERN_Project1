@@ -2,3 +2,9 @@
 https://react.dev/reference/react/useState
 
 thực hiện code trang login và trang forgot password
+rafce : tạo component 
+
+***login: 
+    - Thực hiện tạo các method
+    - sử dụng useState() để cấu hình các thuộc tính, đồng thời nhận các giá trị từ thẻ
+    - sử dụng các method vào các event của input và form
