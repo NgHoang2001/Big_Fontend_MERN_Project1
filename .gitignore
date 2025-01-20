@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-/assest
+/src/assest
+/src/assest/products
 # testing
 /coverage
 

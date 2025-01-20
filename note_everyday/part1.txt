@@ -1,3 +1,5 @@
+đọc tài liệu: https://react.dev/
+
 tạo cấu trúc dự án reactjs
 sử dụng tailwind để css
 	react-router-dom để cấu hình dường dẫn dự án
